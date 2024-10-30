@@ -1,0 +1,6 @@
+ligne de sujet (essayer de la garder sous 50 caractères)
+
+description multiligne du commit
+ajouter tous les détails que vous voulez
+
+[ticket: X]
